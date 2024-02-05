@@ -1,0 +1,5 @@
+#ignore .env
+*.env
+
+#except .env.example
+!.env.example
